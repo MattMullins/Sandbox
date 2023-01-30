@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8">
+		<title>
+			Starter Code
+		</title>
+		<script>
+			function hello(){
+				console.log("Hello World!");
+			}
+		</script>
+	</head>
+	<body>
+		<h1>
+			Fuck you
+		</h1>
+	</body>
+<html>
